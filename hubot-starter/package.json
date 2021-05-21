@@ -1,0 +1,18 @@
+{
+  "name": "hubot-practice",
+  "version": "1.0.0",
+  "private": true,
+  "author": "Marc Wright <marc@generalassemb.ly>",
+  "description": "marc practice for tonight class",
+  "dependencies": {
+    "hubot": "^3.3.1",
+    "hubot-diagnostics": "^1.0.0",
+    "hubot-help": "^1.0.1",
+    "hubot-redis-brain": "^1.0.0",
+    "hubot-rules": "^1.0.0",
+    "hubot-slack": "^4.6.0"
+  },
+  "engines": {
+    "node": "> 4.0.0"
+  }
+}
